@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/niklaswicklund/static/css/main.6773d876.css",
+    "main.js": "/niklaswicklund/static/js/main.f54c3a6f.js",
+    "static/js/453.8471d677.chunk.js": "/niklaswicklund/static/js/453.8471d677.chunk.js",
+    "static/media/MovieNow.PNG": "/niklaswicklund/static/media/MovieNow.3610ad2c0f4dfbe1e144.PNG",
+    "static/media/steganography.png": "/niklaswicklund/static/media/steganography.fcbb6c066b152c473e7e.png",
+    "static/media/profilepic.jpg": "/niklaswicklund/static/media/profilepic.93ecbd74db18f5b9ab08.jpg",
+    "static/media/splicedP.png": "/niklaswicklund/static/media/splicedP.9c3d70a1a00363990ca8.png",
+    "static/media/shapetransform.png": "/niklaswicklund/static/media/shapetransform.21cc45efa5304fb72bfb.png",
+    "static/media/NEATFlappyBird2.png": "/niklaswicklund/static/media/NEATFlappyBird2.b43e688e8722d380d86b.png",
+    "static/media/clothsimulator.PNG": "/niklaswicklund/static/media/clothsimulator.db30561eca14fb7674d1.PNG",
+    "static/media/mnistproject.jpg": "/niklaswicklund/static/media/mnistproject.3ad76c5258314ebac720.jpg",
+    "index.html": "/niklaswicklund/index.html",
+    "main.6773d876.css.map": "/niklaswicklund/static/css/main.6773d876.css.map",
+    "main.f54c3a6f.js.map": "/niklaswicklund/static/js/main.f54c3a6f.js.map",
+    "453.8471d677.chunk.js.map": "/niklaswicklund/static/js/453.8471d677.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6773d876.css",
+    "static/js/main.f54c3a6f.js"
+  ]
+}
