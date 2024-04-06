@@ -2,37 +2,138 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  margin-top: 0px;
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2rem;
+}
+hr {
+  border: none; 
+  border-top: 1px solid #333; 
+  margin: 0 auto;
+  width: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.content {
+  width: 90%;
+  margin: 0 auto;
+}
+.two-column {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.column{
+  padding: 20px 0;
+  flex: 1;
+  min-width: 0; /* Ensure content can shrink */
+  /*Center*/
+  
+}
+.column.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.left{
+  text-align: left;
+}
+.right{
+  text-align: right;
+}
+
+.profile-picture {
+  max-width: 60%;
+  max-height: 60%; 
+  width: auto; 
+  height: auto; 
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.project-card {
+  width: 100%;
+  height: 150px;
+  margin: 20px auto;
+}
+.image-container {
+  width: 100%;
+  height: 50%;
+  overflow: hidden;
+  position: relative;
+
+}
+.project-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute; /* Position the image absolutely */
+  left: 0; /* Align the left edge of the image with the left edge of the container */
+  top: 0; /* Align the top edge of the image with the top edge of the container */
+
+}
+.carousel {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.carousel-card {
   display: flex;
   flex-direction: column;
   align-items: center;
+  height: 460px; /* Set a fixed height for the card */
+  width: 100%; /* Set a fixed width for the card */
+}
+
+.card-image {
+  flex: 1; /* Image takes up remaining space */
+  width: 100%; /* Ensure image takes full width */
+  max-height: 60%; /* Image takes up to 70% of the card height */
+}
+
+.card-content {
+  flex: 1; /* Content takes up remaining space */
+  display: flex;
+  flex-direction: column;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  width: 100%;
+  padding: 10px; /* Adjust padding as needed */
+}
+.card-actions{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
 }
 
-.App-link {
-  color: #61dafb;
+.publications-section {
+  margin-bottom: 40px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.publication-list {
+  list-style: none;
+  padding: 0;
+}
+
+.publication {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .two-column {
+      flex-direction: column; /* Stack columns on small devices */
   }
-  to {
-    transform: rotate(360deg);
+  .column {
+    width: 80%;
+  }
+  .carousel {
+    width: 100%;
   }
 }
