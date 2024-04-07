@@ -5,6 +5,7 @@ import FlappyBirdProjectImg from './images/NEATFlappyBird2.png';
 import SplicedProjectImg from './images/splicedP.png';
 import SteganographyProjectImg from './images/steganography.png';
 import ShapeTransformationProjectImg from './images/shapetransform2.png';
+import TextSynthesizerProjectImg from './images/textsynthesizer.png';
 
 const ProjectImages = {
     0: MNISTProjectImg,
@@ -13,6 +14,7 @@ const ProjectImages = {
     3: FlappyBirdProjectImg,
     4: SplicedProjectImg,
     5: SteganographyProjectImg,
-    6: ShapeTransformationProjectImg
+    6: ShapeTransformationProjectImg,
+    7: TextSynthesizerProjectImg
 }
 export default ProjectImages;
