@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/NiklasWicklund/static/css/main.6773d876.css",
-    "main.js": "/NiklasWicklund/static/js/main.bcf62ada.js",
+    "main.css": "/NiklasWicklund/static/css/main.83502a2d.css",
+    "main.js": "/NiklasWicklund/static/js/main.d5b32a77.js",
     "static/js/453.8471d677.chunk.js": "/NiklasWicklund/static/js/453.8471d677.chunk.js",
     "static/media/MovieNow.PNG": "/NiklasWicklund/static/media/MovieNow.3610ad2c0f4dfbe1e144.PNG",
     "static/media/steganography.png": "/NiklasWicklund/static/media/steganography.fcbb6c066b152c473e7e.png",
     "static/media/profilepic.jpg": "/NiklasWicklund/static/media/profilepic.93ecbd74db18f5b9ab08.jpg",
     "static/media/splicedP.png": "/NiklasWicklund/static/media/splicedP.9c3d70a1a00363990ca8.png",
-    "static/media/shapetransform.png": "/NiklasWicklund/static/media/shapetransform.21cc45efa5304fb72bfb.png",
+    "static/media/shapetransform2.png": "/NiklasWicklund/static/media/shapetransform2.e0cc7e1f8cf1e250cf3c.png",
     "static/media/NEATFlappyBird2.png": "/NiklasWicklund/static/media/NEATFlappyBird2.b43e688e8722d380d86b.png",
     "static/media/clothsimulator.PNG": "/NiklasWicklund/static/media/clothsimulator.db30561eca14fb7674d1.PNG",
     "static/media/mnistproject.jpg": "/NiklasWicklund/static/media/mnistproject.3ad76c5258314ebac720.jpg",
     "index.html": "/NiklasWicklund/index.html",
-    "main.6773d876.css.map": "/NiklasWicklund/static/css/main.6773d876.css.map",
-    "main.bcf62ada.js.map": "/NiklasWicklund/static/js/main.bcf62ada.js.map",
+    "main.83502a2d.css.map": "/NiklasWicklund/static/css/main.83502a2d.css.map",
+    "main.d5b32a77.js.map": "/NiklasWicklund/static/js/main.d5b32a77.js.map",
     "453.8471d677.chunk.js.map": "/NiklasWicklund/static/js/453.8471d677.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6773d876.css",
-    "static/js/main.bcf62ada.js"
+    "static/css/main.83502a2d.css",
+    "static/js/main.d5b32a77.js"
   ]
 }
