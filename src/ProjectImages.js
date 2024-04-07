@@ -4,7 +4,7 @@ import MovieNowProjectImg from './images/MovieNow.PNG';
 import FlappyBirdProjectImg from './images/NEATFlappyBird2.png';
 import SplicedProjectImg from './images/splicedP.png';
 import SteganographyProjectImg from './images/steganography.png';
-import ShapeTransformationProjectImg from './images/shapetransform.png';
+import ShapeTransformationProjectImg from './images/shapetransform2.png';
 
 const ProjectImages = {
     0: MNISTProjectImg,

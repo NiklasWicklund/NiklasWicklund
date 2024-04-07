@@ -24,14 +24,12 @@ hr {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
 }
 
 .column{
-  padding: 20px 0;
+  padding: 20px 10px;
   flex: 1;
   min-width: 0; /* Ensure content can shrink */
-  /*Center*/
   
 }
 .column.image {
@@ -45,13 +43,17 @@ hr {
 .right{
   text-align: right;
 }
+.center {
+  /*Vertically center text*/
+  display: flex;
+  align-items: center;
+}
 
 .profile-picture {
-  max-width: 60%;
-  max-height: 60%; 
+  max-width: 70%;
+  max-height: 70%; 
   width: auto; 
   height: auto; 
-  border-radius: 50%;
   padding: 10px;
 }
 
@@ -113,27 +115,39 @@ hr {
 
 }
 
-.publications-section {
+.one-column {
   margin-bottom: 40px;
 }
 
-.publication-list {
+.list-container {
   list-style: none;
   padding: 0;
 }
 
-.publication {
+.list-item {
   margin-bottom: 20px;
 }
 
+.location-date {
+  font-size: 14px;
+  color: #31363F;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.program {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
 @media (max-width: 768px) {
   .two-column {
-      flex-direction: column; /* Stack columns on small devices */
+    flex-direction: column; /* Stack columns on small devices */
+    align-items: center;
   }
   .column {
     width: 80%;
   }
   .carousel {
     width: 100%;
+    margin: 0 auto;
   }
 }

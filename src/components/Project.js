@@ -28,6 +28,7 @@ function Project(props)
                     <a 
                         key={i}
                         href={link.url}
+                        target="_blank"
                     >
                         <link.icon size={20}/>
                     </a>
