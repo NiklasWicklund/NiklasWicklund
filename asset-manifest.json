@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/NiklasWicklund/static/css/main.83502a2d.css",
-    "main.js": "/NiklasWicklund/static/js/main.c277c68a.js",
+    "main.js": "/NiklasWicklund/static/js/main.2fee732d.js",
     "static/js/453.8471d677.chunk.js": "/NiklasWicklund/static/js/453.8471d677.chunk.js",
     "static/media/MovieNow.PNG": "/NiklasWicklund/static/media/MovieNow.3610ad2c0f4dfbe1e144.PNG",
+    "static/media/placeskth.png": "/NiklasWicklund/static/media/placeskth.aafb7c813b0bd4e2cd35.png",
     "static/media/steganography.png": "/NiklasWicklund/static/media/steganography.fcbb6c066b152c473e7e.png",
     "static/media/profilepic.jpg": "/NiklasWicklund/static/media/profilepic.93ecbd74db18f5b9ab08.jpg",
     "static/media/splicedP.png": "/NiklasWicklund/static/media/splicedP.9c3d70a1a00363990ca8.png",
@@ -14,11 +15,11 @@
     "static/media/mnistproject.jpg": "/NiklasWicklund/static/media/mnistproject.3ad76c5258314ebac720.jpg",
     "index.html": "/NiklasWicklund/index.html",
     "main.83502a2d.css.map": "/NiklasWicklund/static/css/main.83502a2d.css.map",
-    "main.c277c68a.js.map": "/NiklasWicklund/static/js/main.c277c68a.js.map",
+    "main.2fee732d.js.map": "/NiklasWicklund/static/js/main.2fee732d.js.map",
     "453.8471d677.chunk.js.map": "/NiklasWicklund/static/js/453.8471d677.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83502a2d.css",
-    "static/js/main.c277c68a.js"
+    "static/js/main.2fee732d.js"
   ]
 }
