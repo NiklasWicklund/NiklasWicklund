@@ -6,6 +6,7 @@ import SplicedProjectImg from './images/splicedP.png';
 import SteganographyProjectImg from './images/steganography.png';
 import ShapeTransformationProjectImg from './images/shapetransform2.png';
 import TextSynthesizerProjectImg from './images/textsynthesizer.png';
+import PlacesKTHProjectImg from './images/placeskth.png';
 
 const ProjectImages = {
     0: MNISTProjectImg,
@@ -15,6 +16,7 @@ const ProjectImages = {
     4: SplicedProjectImg,
     5: SteganographyProjectImg,
     6: ShapeTransformationProjectImg,
-    7: TextSynthesizerProjectImg
+    7: TextSynthesizerProjectImg,
+    8: PlacesKTHProjectImg
 }
 export default ProjectImages;

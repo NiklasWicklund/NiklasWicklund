@@ -112,6 +112,21 @@ const ProjectsList = [
           icon: FaGithub
         }
       ]
+    },
+    {
+      title: "Free rooms at KTH",
+      description: "Utilizing the KTH API to find free rooms at KTH",
+      id: 8,
+      links: [
+        {
+          url: "https://github.com/NiklasWicklund/places-kth",
+          icon: FaGithub
+        },
+        {
+          url: "https://places-kth.vercel.app",
+          icon: FaExternalLinkAlt
+        }
+      ]
     }
     ];
 
